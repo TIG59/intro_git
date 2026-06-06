@@ -1,2 +1,3 @@
 hello world git
 change 1
+change 2 git add git commit
