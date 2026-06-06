@@ -1,4 +1,5 @@
 hello world git
 change 1
 change 2 git add git commit
-chahge git remove
+chahge 3 git remove
+change 4 git status
