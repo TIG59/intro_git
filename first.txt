@@ -3,3 +3,4 @@ change 1
 change 2 git add git commit
 chahge 3 git remove
 change 4 git status
+change git diff
